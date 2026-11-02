@@ -1,0 +1,10 @@
+material,structure,ratio,source_id
+YMnO3,hexagonal,5.873239436619718,hexagonal_manganites
+LuMnO3,hexagonal,5.766666666666667,hexagonal_manganites
+ScMnO3,hexagonal,3.8076923076923075,hexagonal_manganites
+YMnO3,orthorhombic,0.6190476190476191,orthorhombic_manganite
+MnBi2Te4,rhombohedral,0.12396694214876033,layered_antiferromagnet
+GdMnO3,orthorhombic,,gadolinium_manganite
+YCrO3,orthorhombic,1.8571428571428572,orthochromites
+LuCrO3,orthorhombic,1.1217391304347826,orthochromites
+HoCrO3,orthorhombic,0.13380281690140844,orthochromites

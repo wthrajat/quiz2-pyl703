@@ -1,0 +1,10 @@
+material,structure,theta_cw_K,theta_abs_K,theta_uncertainty_K,ordering_K,order,source_id,note
+YMnO3,hexagonal,-417,417,,71,AFM,hexagonal_manganites,Reported fit over 300–400 K; source warns that this interval is too low for an asymptotic fit
+LuMnO3,hexagonal,-519,519,,90,AFM,hexagonal_manganites,Reported fit over 300–400 K; triangular Mn lattice
+ScMnO3,hexagonal,-495,495,,130,AFM,hexagonal_manganites,Reported fit over 300–400 K; triangular Mn lattice
+YMnO3,orthorhombic,-26,26,,42,AFM,orthorhombic_manganite,Sample-specific value; sinusoidally modulated magnetic structure identified by diffraction
+MnBi2Te4,rhombohedral,3,3,3,24.2,interlayer AFM,layered_antiferromagnet,Reported intercept is 3 ± 3 K and depends on the fitted temperature-independent susceptibility
+GdMnO3,orthorhombic,-39,39,,,canted AFM plus rare-earth response,gadolinium_manganite,2 K is a magnetization-loop measurement temperature rather than an established ordering transition
+YCrO3,orthorhombic,,260,,140,canted AFM,orthochromites,Own-sample magnitude from Table 3; source labels this column as absolute theta and no signed value is inferred here
+LuCrO3,orthorhombic,,129,,115,canted AFM,orthochromites,Own-sample magnitude from Table 3; do not replace it with a historical literature value from the adjacent column
+HoCrO3,orthorhombic,,19,,142,canted AFM plus rare-earth response,orthochromites,Own-sample magnitude from Table 3; rare-earth and chromium moments both contribute to susceptibility

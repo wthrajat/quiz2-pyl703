@@ -1,0 +1,37 @@
+{
+  "hexagonal_manganites": {
+    "title": "The magnetic susceptibility, specific heat and dielectric constant of hexagonal YMnO3, LuMnO3 and ScMnO3",
+    "publication": "Journal of Physics: Condensed Matter 13, 4543 (2001)",
+    "doi": "10.1088/0953-8984/13/20/315",
+    "url": "https://arxiv.org/pdf/cond-mat/0103609",
+    "location": "Table I and susceptibility section"
+  },
+  "layered_antiferromagnet": {
+    "title": "Prediction and observation of an antiferromagnetic topological insulator",
+    "publication": "Nature 576, 416–422 (2019)",
+    "doi": "10.1038/s41586-019-1840-9",
+    "url": "https://arxiv.org/pdf/1809.07389",
+    "location": "Magnetic measurements and Figure 2"
+  },
+  "orthorhombic_manganite": {
+    "title": "The magnetic structure of YMnO3 perovskite revisited",
+    "publication": "Journal of Physics: Condensed Matter 14, 3285–3294 (2002)",
+    "doi": "10.1088/0953-8984/14/12/315",
+    "url": "https://doi.org/10.1088/0953-8984/14/12/315",
+    "location": "Magnetic measurements and neutron-diffraction sections"
+  },
+  "gadolinium_manganite": {
+    "title": "Structural, Optical and Magnetic Properties of Multiferroic GdMnO3 Nanoparticles",
+    "publication": "Journal of Superconductivity and Novel Magnetism 26, 1611–1615 (2013)",
+    "doi": "10.1007/s10948-012-1870-0",
+    "url": "https://doi.org/10.1007/s10948-012-1870-0",
+    "location": "Magnetic-properties section and Figure 6"
+  },
+  "orthochromites": {
+    "title": "Direct Hydrothermal Synthesis and Physical Properties of Rare-Earth and Yttrium Orthochromite Perovskites",
+    "publication": "Chemistry of Materials 23, 48–56 (2011)",
+    "doi": "10.1021/cm102925z",
+    "url": "https://doi.org/10.1021/cm102925z",
+    "location": "Table 3, own-sample columns; magnetic-properties discussion"
+  }
+}
