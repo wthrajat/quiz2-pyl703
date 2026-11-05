@@ -7,6 +7,15 @@ A small, reproducible comparison of magnetic interaction scales and ordering tem
 - [Inspect the example data](data/materials.csv)
 - [Check the literature references](references.json)
 
+## Assignment workflow
+
+The reviewed workflow covers the original 22-entry assignment workbook and explains differences from the nine literature examples used in this public analysis.
+
+- [Step-by-step report](docs/quiz-workflow/step_by_step_report.pdf) ([editable text](docs/quiz-workflow/step_by_step_report.md))
+- [Reconstructed prompts](docs/quiz-workflow/reconstructed_prompts.pdf) ([copyable text](docs/quiz-workflow/reconstructed_prompts.md))
+
+The ten prompts reconstruct the reasoning during a later review. They are not original student messages or a substitute for the actual chat history required by the assignment. The original chat export and other local submission files are kept separately.
+
 The public dataset contains nine literature examples. Signed intercepts and unsigned magnitudes are separate fields. A missing ordering temperature remains missing, and source-specific caveats are kept alongside the values. These examples are illustrative rather than a comprehensive or independently remeasured database.
 
 ## Rebuild
